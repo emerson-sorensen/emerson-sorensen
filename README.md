@@ -1,16 +1,19 @@
-## Hi there 👋
+# Howdy 🤠
 
-<!--
-**emerson-sorensen/emerson-sorensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **emerson-sorensen**, a backend engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me through GitHub
+- 💬 Ask me anything about code
+- 🎨 Code is poetry
+- 🌱 Always learning new things
+- 👯 Looking to collaborate on open source
+
+## Tech
+
+`Redis` `gRPC` `Zig` `Scala`
+
+---
+
+_Available for hire._
